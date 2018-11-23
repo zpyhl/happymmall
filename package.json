@@ -1,0 +1,28 @@
+{
+  "name": "happymmall",
+  "version": "1.0.0",
+  "description": " zpy mall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpyhl/happymmall.git"
+  },
+  "keywords": [
+    "天猫"
+  ],
+  "author": "张小妮",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zpyhl/happymmall/issues"
+  },
+  "homepage": "https://github.com/zpyhl/happymmall#readme",
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "webpack": "^4.26.0"
+  }
+}
